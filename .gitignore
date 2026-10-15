@@ -1,0 +1,7 @@
+/automation_user_data_dir/
+/.runtime/
+/.playwright-mcp/
+/test_screenshots/
+/.pi/
+/.pi-sessions/
+.DS_Store
